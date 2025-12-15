@@ -97,7 +97,7 @@ This project demonstrates:
 
 ## 🧑‍💻 Developed By
 
-**Harsha Harika**
+**Harsha M**
 Computer Science & Engineering Student
 
 ## 📌 Conclusion
